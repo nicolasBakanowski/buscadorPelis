@@ -1,0 +1,10 @@
+.ajusteimg{
+    max-width: 500px;
+    max-height: 500px;
+}
+.margen{
+    border: 2px black solid;
+}
+.bgbody{
+    background-color: chocolate;
+}
